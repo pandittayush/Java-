@@ -1,7 +1,7 @@
 import java.util.*;
 public class Printdigits {
     public static void main(String[] args) {
-    //user se input for random number
+    //user se input for random number 
 
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter your number: ");
